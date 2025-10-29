@@ -1,5 +1,9 @@
 # CCBR R Universe
 
+[![name status badge](https://ccbr.r-universe.dev/badges/:name)](https://ccbr.r-universe.dev/)
+[![registry status badge](https://ccbr.r-universe.dev/badges/:registry)](https://ccbr.r-universe.dev/)
+[![packages status badge](https://ccbr.r-universe.dev/badges/:packages)](https://ccbr.r-universe.dev/packages)
+
 <https://ccbr.r-universe.dev>
 
 
