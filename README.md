@@ -11,7 +11,8 @@
 # Enable this universe
 options(repos = c(
     CCBR = 'https://ccbr.r-universe.dev',
-    CRAN = 'https://cloud.r-project.org'))
+    CRAN = 'https://cloud.r-project.org',
+    BIOC = 'https://bioc.r-universe.dev/'))
 
 # Install packages
 install.packages('MOSuite')
